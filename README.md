@@ -22,6 +22,8 @@ A ScrollView component that handles keyboard appearance and automatically scroll
 
 ## Installation
 
+TEST---------------->
+
 Installation can be done through `npm` or `yarn`:
 
 ```shell
